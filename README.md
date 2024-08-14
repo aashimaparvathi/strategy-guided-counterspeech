@@ -1,1 +1,1 @@
-# strategy-guided-counterspeech
+# A Strategy Labelled Dataset of Counterspeech
